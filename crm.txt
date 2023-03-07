@@ -1,0 +1,12 @@
+To Verify with Transactional emails New Customers - Language Preference
+Verify TS customers should be able to easily change their language preference
+
+
+
+Test steps:-
+1)Register B2C new user
+2)Place the order 
+3)Verify email should be get to customer
+4)Check the new language preference centre link at  footer in email.
+5)Change LOP in the email link
+6)Check  changes has to be done in Lop in Salesforce 
