@@ -1,0 +1,26 @@
+Shipping costs are not accurate on cart 
+Repro steps:
+
+1. Go to source
+2. Add egift card to cart.
+3. Issue1 : Delivery method is showing as STH/fspu. Expected is email delivery
+4. Issue 2: In the Checkout summary, Standard shipping FREE is being displayed.
+5. Issue 3: In the Order summary, Standard shipping FREE is being displayed. Expected is it has to show Email: FREE
+
+Digital Download-shipping cost not there on cart
+
+1. Go to https://www.thesource.ca/
+2. Add 108080041 for sth
+3. Add 108074863 for sth
+4. check subtotal(47.67) 
+5. Actual-subtotal<50$
+6. Expected -Standard shipping: $6.99 should be displayed.
+
+EGC - Delivery method is showing as STH/FSPU
+Repro steps:
+
+1. Go to source
+2. Add egift card to cart.
+3. Issue1 : Delivery method is showing as STH/fspu. Expected is email delivery
+4. Issue 2: In the Checkout summary, Standard shipping FREE is being displayed.
+5. Issue 3: In the Order summary, Standard shipping FREE is being displayed. Expected is it has to show Email: F
